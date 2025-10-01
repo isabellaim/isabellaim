@@ -1,7 +1,8 @@
 # ¡Hola, soy Isabella Martín! 👋
 
 Soy estudiante de Ingeniería en Ciencias de la Computación en ESPOL y me apasiona el análisis de datos, la programación y el diseño de software. He trabajado en proyectos que abarcan desde la creación de aplicaciones interactivas hasta la implementación de patrones de diseño en sistemas de gestión.
-
+ ---
+ 
 ## 📂 Proyectos
 
 ### 1. [Análisis Interactivo de la Base de Datos Northwind](https://github.com/isabellaim/ProyectoModulo2)
