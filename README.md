@@ -1,7 +1,8 @@
 # ¡Hola, soy Isabella Martín! 👋
 
 Soy estudiante de Ingeniería en Ciencias de la Computación en ESPOL y me apasiona el análisis de datos, la programación y el diseño de software. He trabajado en proyectos que abarcan desde la creación de aplicaciones interactivas hasta la implementación de patrones de diseño en sistemas de gestión.
- ---
+
+---
  
 ## 📂 Proyectos
 
@@ -45,7 +46,7 @@ Durante mi carrera he trabajado con diversas tecnologías y herramientas que me 
 ## 📧 Contacto
 
 - **Correo institucional**: [iimartin@espol.edu.ec](mailto:iimartin@espol.edu.ec)
-- **LinkedIn**: [Enlace a mi perfil de LinkedIn](www.linkedin.com/in/isabellamartinp)
+- **LinkedIn**: [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/isabellamartinp/)
 
 ---
 
