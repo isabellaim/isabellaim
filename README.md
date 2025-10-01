@@ -3,29 +3,40 @@
 Soy estudiante de Ingeniería en Ciencias de la Computación en ESPOL y me apasiona el análisis de datos, la programación y el diseño de software. He trabajado en proyectos que abarcan desde la creación de aplicaciones interactivas hasta la implementación de patrones de diseño en sistemas de gestión.
 
 ---
- 
+
 ## 📂 Proyectos
 
 ### 1. [Análisis Interactivo de la Base de Datos Northwind](https://github.com/isabellaim/ProyectoModulo2)
    - **Descripción**: Este proyecto simula las operaciones de una empresa de distribución usando la base de datos Northwind. A través de una aplicación web desarrollada con Streamlit, puedes visualizar KPIs clave, filtrar datos y revisar consultas SQL optimizadas.
-   - **Tecnologías utilizadas**: Streamlit, MySQL, Pandas
+   - **Tecnologías utilizadas**: 
+     - **Streamlit**: Para crear la interfaz interactiva de visualización.
+     - **MySQL**: Para almacenar y gestionar los datos de la base de datos.
+     - **Pandas**: Para manipular y analizar los datos.
    - **Estado**: Completo
    - **Captura de pantalla**:
      ![Northwind](Northwind.jpg)
 
 ### 2. [Sistema de Administración de Ferias](https://github.com/isabellaim/POO-P03-G04)
    - **Descripción**: Un sistema desarrollado con Java y CSS que permite la administración de ferias, emprendedores, auspiciantes y stands. Utiliza buenas prácticas de programación y manejo de archivos serializados.
-   - **Tecnologías utilizadas**: Java, CSS
+   - **Tecnologías utilizadas**: 
+     - **Java**: Para la implementación de la lógica del sistema y programación orientada a objetos.
+     - **CSS**: Para el diseño visual del sistema.
    - **Estado**: Completo
 
 ### 3. [Patrones de Diseño y UML](https://github.com/isabellaim/G04-PatronesDise-oUML)
    - **Descripción**: Implementación de los patrones de diseño **Iterator**, **Strategy** y **Chain of Responsibility** en un sistema de gestión de inventarios y distribución de productos para una empresa de tecnología.
-   - **Tecnologías utilizadas**: Java, UML, Patrones de Diseño
+   - **Tecnologías utilizadas**: 
+     - **Java**: Para la implementación de la lógica y clases del sistema.
+     - **UML**: Para los diagramas de clases y secuencia.
+     - **Patrones de Diseño**: Para estructurar el código de forma flexible y reutilizable.
    - **Estado**: Completo
 
 ### 4. [Tic Tac Toe VR](https://github.com/Jmuniz27/ProyectoMatDisc--Tic-Tac-Toe-With-Trees)
    - **Descripción**: Un juego de Tic Tac Toe que utiliza árboles, estructuras de datos y conceptos de matemáticas discretas en Python. Implementa OpenCV para el reconocimiento de imágenes y filtros de realidad virtual para una experiencia inmersiva.
-   - **Tecnologías utilizadas**: Python, OpenCV, VR
+   - **Tecnologías utilizadas**: 
+     - **Python**: Para la lógica del juego y la implementación de algoritmos.
+     - **OpenCV**: Para el reconocimiento de imágenes y la interacción con la cámara.
+     - **Realidad Virtual (VR)**: Para una experiencia inmersiva del juego.
    - **Estado**: Completo
 
 ---
@@ -52,5 +63,3 @@ Durante mi carrera he trabajado con diversas tecnologías y herramientas que me 
 
 ## 🎓 Educación
   **Cursos relevantes tomados**: Bases de Datos, Estructuras de Datos, Álgebra Lineal, Matemáticas Discretas, Diseño de Software, Interacción Humano Computador
-
----
